@@ -1,0 +1,38 @@
+{
+  "name": "react-native-appdrop",
+  "version": "1.0.0",
+  "description": "This package contains the bridge function needed to authenticate React Native apps built with Appdrop. Requires iOS and Android config files from the Appdrop Cloud dashboard.",
+  "devDependencies": {
+    "typescript": "^3.8.0"
+  },
+  "dependencies": {
+    "appdrop-api": "^3.58.0",
+    "appdrop-js": "^1.5.0",
+    "react": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-device-info": "^8.0.1",
+    "react-native-fs": "^2.16.6"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appdrop-team/react-native-appdrop.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "ios",
+    "android",
+    "firebase",
+    "aws",
+    "azure",
+    "no-code"
+  ],
+  "author": "Appdrop Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appdrop-team/react-native-appdrop/issues"
+  },
+  "homepage": "https://github.com/appdrop-team/react-native-appdrop#readme"
+}
